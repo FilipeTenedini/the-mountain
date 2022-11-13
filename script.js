@@ -36,7 +36,7 @@ everJson.map((item,index) => {
     // abrindo o MODAL 
     travelItem.querySelector('.button').addEventListener('click', (e) => { 
         e.preventDefault();        
-        c('aside').style.right = '-400px' //fechar o cart
+        c('aside').style.right = '-3000px' //fechar o cart
 
         position = indice;           
         letQt = 1;
@@ -87,6 +87,9 @@ function closeModal(){
 
 cs('.modal-reserve .button')[0].addEventListener('click', () => {
     closeModal();
+    if (cart.length > 0){
+        c('aside').style.right = '0px';
+    };
 });
 
 
@@ -150,7 +153,7 @@ function updateCart() {
         c('.desc-price').innerHTML = `R$ ${desconto.toLocaleString('pt-br')}`;
         c('.total-price').innerHTML = `R$ ${total.toLocaleString('pt-br')}`;
     } else {
-        c('aside').style.right = '-400px'
+        c('aside').style.right = '-3000px'
     }
 
 };
