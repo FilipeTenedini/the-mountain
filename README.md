@@ -11,6 +11,7 @@ This is my fav front end project until then.
 - map function on the object making it possible to apply its properties to HTML elements.
 - I learned to use cloneNode();
 - training loops.
+- mobile mode
 
 ## The most important:
 - In this project I built a cart with all the logic and functions to work:
@@ -18,5 +19,7 @@ This is my fav front end project until then.
   - Remove Item
   - Add more items
   - Close cart
-  - Subtotal, discount, total.
-  
+- Subtotal, discount, total.
+ 
+## Next features:
+- Add more pages with mountain informations.
