@@ -1,4 +1,4 @@
-# <span style="text align:center;">The mountain.</span>
+#                                                            The mountain
 ![image](https://user-images.githubusercontent.com/105571583/201692118-3ccae20c-32b6-492e-bae5-05c28ab24692.png)
 
 You can check the application here:
