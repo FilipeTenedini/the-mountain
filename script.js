@@ -18,7 +18,7 @@ window.addEventListener('scroll', () => {
 });
 
 
-everJson.map((item,index) => {
+everJson.forEach((item,index) => {
 
     let travelItem = c('.models .travel').cloneNode(true);
 
