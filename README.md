@@ -8,7 +8,7 @@ https://cq679v.csb.app/
 This is my fav front end project until then.
 
 ## Learnings:
-- map function on the object making it possible to apply its properties to HTML elements.
+- forEach on the object making it possible to apply its properties to HTML elements.
 - I learned to use cloneNode();
 - training loops.
 - mobile mode
