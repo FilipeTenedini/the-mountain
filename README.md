@@ -3,7 +3,7 @@
 
 You can check the application here:
 
-https://cq679v.csb.app/
+https://filipetenedini.github.io/the-mountain/
 
 This is my fav front end project until then.
 
